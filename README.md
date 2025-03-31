@@ -13,7 +13,7 @@
 ## Tech Stack | Tecnologie
 - **HTML5** (Struttura semantica)
 - **CSS3** (Variabili, Flexbox, Transizioni)
-- **Vanilla JavaScript** (ES6+)
+- **JavaScript** (ES6+)
 
 ## Usage | Utilizzo
 ```bash
